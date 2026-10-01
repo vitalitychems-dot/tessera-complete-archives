@@ -1,6 +1,6 @@
 # Tessera complete source archives (private handoff)
 
-This private repository contains all three supplied archives, split into 2 MiB GitHub-safe parts. Every source archive entry is preserved, including duplicate entries. The workspace archive has two authentication-secret literals replaced with explicit redaction markers; no file was removed. The secret values are not included. If either value was live, rotate it at its provider.
+This private repository contains all three supplied archives, split into 512 KiB GitHub-safe parts. Every source archive entry is preserved, including duplicate entries. The workspace archive has two authentication-secret literals replaced with explicit redaction markers; no file was removed. The secret values are not included. If either value was live, rotate it at its provider.
 
 The raw workspace archive is unreviewed project material. Keep this repository private; inspect its contents before sharing it with any model or person.
 
